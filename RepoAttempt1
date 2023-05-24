@@ -1,0 +1,3 @@
+# Calculator_HW" 
+git remote add origin https://github.com/ceannam/Calculator_HW.git
+git push -u origin main
